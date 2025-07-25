@@ -1,0 +1,2 @@
+# GameDB-AtariST
+Atari ST
